@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-
-/*********************************************************************************************************************
+<html lang="pt-br">
+ /*********************************************************************************************************************
  Curso: Engenharia de Software
  Disciplina: Linguagem e Técnicas de Programacão
  Professor: Flores
@@ -17,8 +17,6 @@
  Data: 11 de Novembro de 2025
  Descritivo: Desenvolvimento de um Sistema CRUD em PHP com MySQL
  **********************************************************************************************************************/
-
-<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
